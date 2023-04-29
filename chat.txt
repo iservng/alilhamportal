@@ -1,0 +1,12 @@
+dWxNJtqqhmlnxLjMEflJ
+dWxNJtqqhmlnxLjMEflJ
+-------------------
+58fLRE7IwqId9vQ5nBVD
+----------------------
+
+SECURITY 
+---------------
+Security is implemented using role-base access control
+we shall have two roles
+1. Agent = Can read all supportCases
+2. Customers => Can read only their own cases
